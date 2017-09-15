@@ -6,7 +6,7 @@
 
 `mdutil -p`
    
-- This flag will cause each local store for the volumes indicated to be erased:
+- Cause each local store for the volumes indicated to be erased:
 
 `mdutil -E`
 
