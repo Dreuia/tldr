@@ -4,7 +4,7 @@
 
 - Spotlight caches indexes of some network devices locally:
 
-`mdutil -p`  
+`mdutil -p`
    
 - This flag will cause each local store for the volumes indicated to be erased:
 
@@ -20,4 +20,4 @@
 
 - Print verbose information when available:
 
-`mdutil -v` 
+`mdutil -v`
